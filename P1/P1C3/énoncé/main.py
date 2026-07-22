@@ -1,1 +1,1 @@
-## Écrivez votre code ici !
+print( 17 + 35 ) * 2 ## Écrivez votre code ici !
