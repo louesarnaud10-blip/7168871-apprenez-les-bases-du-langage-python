@@ -17,7 +17,7 @@ print(f"Taille: {taille})
 print(f"Est etudiant: {est_etudiant})
 
 Utilisez la fonction type pour afficher les types des variables précédemment définies.
-type(f"Nom: {nom})
-type(f"Age: {age})
-type(f"Taille: {taille})
-type(f"Est etudiant: {est_etudiant}) 
+print(type(nom))
+print(type(age))
+print(type(taille))
+print(type(est_etudiant))
