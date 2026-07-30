@@ -8,8 +8,7 @@ fruits = {
 fruits["kiwi"] = "vert"
 
 # Accédez à la valeur correspondant à la clé  banane  et stockez-la dans une variable appelée  couleur_banane  
-fruits.values("banane")
-couleur_banane = "jaune"
+couleur_banane = fruits["banane"]
 
 # Modifiez la valeur associée à la clé  pomme  pour  vert  
 fruits["pomme"] = "vert"
