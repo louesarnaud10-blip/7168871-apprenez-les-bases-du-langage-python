@@ -13,4 +13,6 @@ Fruits[1] = "ananas"
 # Affichez la longueur de la liste  fruits  
 len(Fruits)
 
-# Fruits.sort()
+# Triez la liste  fruits  par ordre alphabétique et affichez-la.
+Fruits.sort()
+print(Fruits) 
