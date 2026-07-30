@@ -2,4 +2,4 @@
 print ("J'apprends Python !")
 
 #Calculez le résultat de17 + 35 * 2 et affichez le résultat.
-print((17 + 35)* 2)
+print((17 + 35)* 2) 
