@@ -11,13 +11,13 @@ taille = 1.82
 est_etudiant = True 
 
 # Utilisez la fonction print pour afficher les valeurs des variables precedemment definies.
-print(f"Nom: {nom})
-print(f"Age: {age})
-print(f"Taille: {taille})
-print(f"Est etudiant: {est_etudiant})
+print(nom)
+print(age)
+print(taille)
+print(est_etudiant)
 
 Utilisez la fonction type pour afficher les types des variables précédemment définies.
-print(type(nom))
-print(type(age))
-print(type(taille))
-print(type(est_etudiant))
+type(nom)
+type(age)
+type(taille)
+type(est_etudiant) 
