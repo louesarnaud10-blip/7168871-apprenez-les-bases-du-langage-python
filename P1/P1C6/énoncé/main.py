@@ -5,7 +5,7 @@ Fruits = ["pomme", "banane", "orange"]
 Fruits.append("kiwi")
 
 # Supprimez  orange  de la liste  fruits  
-Fruits.remove(orange)
+Fruits.remove("orange")
 
 # Modifiez le deuxième élément de la liste  fruits  en  ananas  
 Fruits[1] = "ananas"
